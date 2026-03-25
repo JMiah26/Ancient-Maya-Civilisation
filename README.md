@@ -1,4 +1,4 @@
-## Ancient Maya Civilisation Environment
+# Ancient Maya Civilisation Environment
 
 A 3D environment project based on the Ancient Maya Civilisation during the Classic Period.
 
